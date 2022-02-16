@@ -6,7 +6,7 @@ const appAxios = axios.create({
   headers: {
     "x-rapidapi-host":
       "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com",
-    "x-rapidapi-key": "8b7dc41790msh6da0d3a56fbd478p1b7a93jsn7c6ba99360e3",
+    "x-rapidapi-key": "",
   },
 });
 // creating axios instance
