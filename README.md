@@ -18,7 +18,16 @@ Aynı işlemler tekrarlayan SVG butonlarını kapsayan alanlar için de yapılar
 ##### -VACCOVID API
 
 ## Nasıl Çalıştırılır?
-Projenin buluduğu dizinde Komut Satırı açıp sırasıyla şu kodları çalıştırınız;
+utils klasörü içindeki alanı aşağıdaki şekilde düzenleyiniz:
+```
+headers: {
+    "x-rapidapi-host":
+      "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com",
+    "x-rapidapi-key": "", //rapidapi sitesinden alacağınız VACCOVID key gelecektir
+  },
+```
+
+Daha sonra projenin buluduğu dizinde Komut Satırı açıp sırasıyla şu kodları çalıştırınız;
 ```
 npm install
 npm run dev
