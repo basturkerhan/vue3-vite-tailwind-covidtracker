@@ -1,7 +1,40 @@
-# Vue 3 + Vite
+# Covid Tracker - Vue3 + Vite + Tailwind
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/1.png)
+<br>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Hakkında
+Bu proje; Vue3 ve Tailwind pratiği için hazırlanmıştır. SPA için Vue3 Composition API kullanılırken ihtiyaç duyulan yerlerde Options API kullanılmıştır. Proje boyunca görsellik için Tailwind kütüphanesi kullanılmıştır. Proje; yapım aşamalarını hızlandırmak amacıyla Vite kullanılarak oluşturulmuştur. Veriler için VACCOVID API'dan faydalanılmıştır. Dünya genelindeki günlük vakalar, tüm vakalar, mevcut aşı çalışmaları gibi bilgilerin getirilmesinin yanı sıra ülkeye göre 2 aylık süreçteki toplam ve günlük vakaların, ölümlerin, iyileşme sayılarının grafiği de çıkarılabilmekte, enfeksiyon riski gibi barlarla görselleştirmeler sağlanabilmekte ve API'dan sağlanan diğer tüm bilgiler de yine ülkenin detay sayfasında yer almaktadır.
+<br>
+Proje içinde yer alan tablolar ve işlevleri için özel bir Layout kodlanmış ve tekrarlayan kod fazlalığı engellenmiştir. Bu tablolar kendilerine gönderilen "proplar" aracılığıyla özelleştirilebilmektedir. Aynı zamanda arama kelimesine göre filtreleme, tablo sütunlarında yer alan değerlere göre sıralama işlemleri yapabilme gibi fonksiyonlara da sahiptir ve tüm ekrana sığacak kadar alan kapladıktan sonra daha fazla büyümek yerine scroolbar çıkararak rahat kullanıma imkan vermektedir.
+<br>
+Aynı işlemler tekrarlayan SVG butonlarını kapsayan alanlar için de yapılarak özel bir component üretilmiş ve gereksiz kod fazlalığının önüne geçilmiştir.
 
-## Recommended IDE Setup
+## Kullanılan Teknolojiler
+##### -Vue3: vue-router, vuex
+##### -Tailwind
+##### -Vite
+##### -HTML,CSS
+##### -Nodejs paketleri: Axios, vue3-carousel, chart.js
+##### -VACCOVID API
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Nasıl Çalıştırılır?
+Projenin buluduğu dizinde Komut Satırı açıp sırasıyla şu kodları çalıştırınız;
+```
+npm install
+npm run dev
+```
+## Proje Görselleri
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/1.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/2.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/3.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/4.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/5.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/6.png)
+<br>
+![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/7.png)
+<br>
