@@ -1,5 +1,5 @@
 # Covid Tracker - Vue3 + Vite + Tailwind
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/1.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/1.png)
 <br>
 
 ## Hakkında
@@ -24,17 +24,17 @@ npm install
 npm run dev
 ```
 ## Proje Görselleri
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/1.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/1.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/2.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/2.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/3.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/3.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/4.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/4.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/5.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/5.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/6.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/6.png)
 <br>
-![Screenshot](https://github.com/basturkerhan/vue3-and-tailwind-covidtracker/blob/main/readme-images/7.png)
+![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/7.png)
 <br>
