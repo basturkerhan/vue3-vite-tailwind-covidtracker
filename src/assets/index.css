@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-main {
+    background-color: rgba(11, 36, 51, 0.85);
+  }
+  body {
+    background-color: #0d2636;
+  }
+  .bg-dark {
+    background-color: #0d2636;
+  }
+  .bg-lightdark {
+    background-color: #0a2431;
+  }
+}
