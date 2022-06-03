@@ -46,4 +46,3 @@ npm run dev
 ![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/6.png)
 <br>
 ![Screenshot](https://github.com/basturkerhan/vue3-vite-tailwind-covidtracker/blob/main/readme-images/7.png)
-<br>
